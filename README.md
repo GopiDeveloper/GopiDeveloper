@@ -1,18 +1,16 @@
 <h1 align = "center">Hello, I'm Gopi Padamati👋</h1>
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
 
-<a href="https://linkedin.com/in/(https://www.linkedin.com/in/renuka-maradagi-a06934212/)">
-  <img align="left" alt="Renuka Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/padamati-gopi-55012b193/)">
+  <img align="left" alt="Gopi Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/GopiDeveloper">
   <img align="left" alt="GopiDevelover" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/renumaradagi/">
-  <img align="left" alt="Renuka Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Gopi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw/">
-  <img align="left" alt="Renuka Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+
 
 <br/>
 <br/>
