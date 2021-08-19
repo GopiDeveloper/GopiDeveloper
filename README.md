@@ -23,7 +23,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 💬 Ask me about ...- 🌱 I’m currently learning ...
 📫 You can reach me:  <a href="mailto:padamatigopi2001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/GopiDeveloper/count.svg)
 
 
 
