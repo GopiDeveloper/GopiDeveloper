@@ -1,4 +1,4 @@
-<h1 align = "center">Hello, I'm Renuka Maradagi 👋</h1>
+<h1 align = "center">Hello, I'm Gopi Padamati👋</h1>
 <h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/renuka-maradagi-a06934212/)">
