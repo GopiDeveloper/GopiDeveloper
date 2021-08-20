@@ -7,7 +7,7 @@
 <a href="https://github.com/GopiDeveloper">
   <img align="left" alt="GopiDevelover" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/renumaradagi/">
+<a href="https://instagram.com/padamati_gopi_143/">
   <img align="left" alt="Gopi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
